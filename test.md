@@ -13,13 +13,10 @@
     **Courses**: <font color="comment">[]</font>
     **AliasA**: <font color="comment"></font>
       **Alias**: <font color="comment"></font>
-    **AliasB**: <font color="comment"><nil></font>
-    **Neighbors**: <font color="comment">[]</font>
   **Neighbors[1]**: <font color="comment"></font>
     **Name**: <font color="comment">PP</font>
     **Age**: <font color="comment">20</font>
     **Courses**: <font color="comment">[]</font>
     **AliasA**: <font color="comment"></font>
       **Alias**: <font color="comment"></font>
-    **AliasB**: <font color="comment"><nil></font>
-    **Neighbors**: <font color="comment">[]</font>
+**PB**: <font color="comment">PB</font>
